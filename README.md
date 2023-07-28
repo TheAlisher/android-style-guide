@@ -1,4 +1,4 @@
-# android-style-guide
+# Android Style Guide
 
 ## [Geminio](https://github.com/hhru/android-multimodule-plugin/tree/master/plugins/hh-geminio)
 
