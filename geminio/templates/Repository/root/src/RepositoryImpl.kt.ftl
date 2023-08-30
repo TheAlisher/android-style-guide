@@ -1,8 +1,8 @@
 package ${packageName}
 
-import com.alish.boilerplate.data.base.BaseRepository
-import com.alish.boilerplate.data.remote.apiservices.${repositoryApiService}
-import com.alish.boilerplate.domain.repositories.${repositoryName}
+import ${applicationPackage}.base.BaseRepository
+import ${applicationPackage}.remote.apiservices.${repositoryApiService}
+import ${applicationPackage}.domain.repositories.${repositoryName}
 import javax.inject.Inject
 
 class ${repositoryNameImpl} @Inject constructor(
